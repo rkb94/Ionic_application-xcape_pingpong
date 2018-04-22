@@ -1,0 +1,8 @@
+{
+  "name": "pingpong",
+  "app_id": "24c3c52f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
